@@ -37,7 +37,7 @@ jobs:
         run: yarn docs:build
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages/tree/releases/v2
+        uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: gh-pages
           build_dir: docs/.vuepress/dist
