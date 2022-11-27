@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "vuepress";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
+import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 
 export default defineUserConfig({
     head: [
@@ -27,12 +28,14 @@ export default defineUserConfig({
                 },
             },
         }),
+        nprogressPlugin(),
     ],
     theme: defaultTheme({
         logo: "https://usth.edu.vn/wp-content/uploads/2021/11/logo.png",
         navbar: [
             { text: "Home", link: "/" },
             { text: "Lectures", link: "/Lectures/" },
+            { text: "Documents", link: "/Documents/" },
             { text: "GitHub", link: "https://www.github.com/bhhoang" },
         ],
         sidebar: "auto",

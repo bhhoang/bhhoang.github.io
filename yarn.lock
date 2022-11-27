@@ -563,7 +563,7 @@
     "medium-zoom" "^1.0.6"
     "vue" "^3.2.41"
 
-"@vuepress/plugin-nprogress@2.0.0-beta.53":
+"@vuepress/plugin-nprogress@^2.0.0-beta.53", "@vuepress/plugin-nprogress@2.0.0-beta.53":
   "integrity" "sha512-xO8Dqw1yCttY6N+jDpuwE3RG+jQVPE0EieRafTWRO+fGCFobGa/6Zldc4x3+alB2xyXwFAy2495NYgPudNIWeQ=="
   "resolved" "https://registry.npmjs.org/@vuepress/plugin-nprogress/-/plugin-nprogress-2.0.0-beta.53.tgz"
   "version" "2.0.0-beta.53"
