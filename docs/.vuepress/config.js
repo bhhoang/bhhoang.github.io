@@ -53,7 +53,13 @@ export default defineUserConfig({
         mdEnhancePlugin({
             katex: {
                 enable: true,
-            }
+            },
+            sub: {
+                enable: true,
+            },
+            sup: {
+                enable: true,
+            },
         })
     ],
     theme: defaultTheme({
