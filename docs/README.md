@@ -5,7 +5,7 @@ heroImage: https://camo.githubusercontent.com/843930b1c9f9b36d1f010d5bfd1d8d95f1
 tagline: A place to store my notes
 actions:
   - text: Get Started →
-    link: /Documents/README.md
+    link: /textbooks.md
     type: secondary
 features:
 - title: Documents
