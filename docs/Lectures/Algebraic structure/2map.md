@@ -10,14 +10,14 @@
 >$$A × B = {(a, b) : a ∈ A, b ∈ B}$$
 
 :::details Example
-Let A = {1, 2, 3}, B = {x, y}, and \ then
+Let A = {1, 2, 3}, B = {x, y}, and $C = \emptyset$ then
 $$A × B = {(1, x), (1, y), (2, x), (2, y), (3, x), (3, y)}$$
 $$A × C = \emptyset$$
 :::
 
 We define the Cartesian product of n sets to be A1 × A2 × ... × An = {(a1, a2, ..., an) : ai ∈ Ai for i = 1, .., n} If A1 = A2 = ... = An, we write An for A × A.... × A.
 
-- Example: R^3 consists of all of 3-tuples of real numbers.
+- Example: $R^3$ consists of all of 3-tuples of real numbers.
 
 ### Definition 2
 

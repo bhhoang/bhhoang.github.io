@@ -5,7 +5,7 @@
 <h2 id="textbooks" tabindex="-1"><a class="header-anchor" href="#textbooks" aria-hidden="true">#</a> Textbooks</h2>
 <h3 id="signals-and-systems" tabindex="-1"><a class="header-anchor" href="#signals-and-systems" aria-hidden="true">#</a> Signals and Systems</h3>
 <ul>
-<li><a href="https://drive.google.com/file/d/1JgssERjYH77P8FXIGiHEgb8MCa_mO-oU/view" target="_blank" rel="noopener noreferrer">Signals and Systems [2nd Edition] by Alan V. Oppenheim &amp; Alan S. Willsky.pdf<ExternalLinkIcon/></a></li>
+<li><a href="https://drive.google.com/file/d/1JgssERjYH77P8FXIGiHEgb8MCa_mO-oU/view" target="_blank" rel="noopener noreferrer">Signals and Systems (2nd Edition) by Alan V. Oppenheim &amp; Alan S. Willsky.pdf<ExternalLinkIcon/></a></li>
 </ul>
 </div></template>
 
