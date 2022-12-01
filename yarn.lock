@@ -484,13 +484,6 @@
     "@nodelib/fs.scandir" "2.1.5"
     "fastq" "^1.6.0"
 
-"@traptitech/markdown-it-katex@^3.6.0":
-  "integrity" "sha512-CnJzTWxsgLGXFdSrWRaGz7GZ1kUUi8g3E9HzJmeveX1YwVJavrKYqysktfHZQsujdnRqV5O7g8FPKEA/aeTkOQ=="
-  "resolved" "https://registry.npmjs.org/@traptitech/markdown-it-katex/-/markdown-it-katex-3.6.0.tgz"
-  "version" "3.6.0"
-  dependencies:
-    "katex" "^0.16.0"
-
 "@types/debug@^4.1.7":
   "integrity" "sha512-9AonUzyTjXXhEOa0DnqpzZi6VHlqKMswga9EXjpXnnqxwLtdvPPtlO8evrI5D9S6asFRCQ6v+wpiUKbw+vKqyg=="
   "resolved" "https://registry.npmjs.org/@types/debug/-/debug-4.1.7.tgz"
@@ -747,7 +740,7 @@
     "vue" "^3.2.41"
     "vue-router" "^4.1.6"
 
-"@vuepress/plugin-back-to-top@2.0.0-beta.53":
+"@vuepress/plugin-back-to-top@^2.0.0-beta.53", "@vuepress/plugin-back-to-top@2.0.0-beta.53":
   "integrity" "sha512-M7+WIA1e57yHbpUKksVDQdcHceslqeGn0/MldjmZHZ/xosxjM/ZIsw7AiSdmCcISEZBr60IXxDoLqJMNhMNQLQ=="
   "resolved" "https://registry.npmjs.org/@vuepress/plugin-back-to-top/-/plugin-back-to-top-2.0.0-beta.53.tgz"
   "version" "2.0.0-beta.53"
@@ -2260,26 +2253,12 @@
     "slick" "^1.12.2"
     "web-resource-inliner" "^6.0.1"
 
-"katex@^0.16.0":
-  "integrity" "sha512-3EykQddareoRmbtNiNEDgl3IGjryyrp2eg/25fHDEnlHymIDi33bptkMv6K4EOC2LZCybLW/ZkEo6Le+EM9pmA=="
-  "resolved" "https://registry.npmjs.org/katex/-/katex-0.16.3.tgz"
-  "version" "0.16.3"
-  dependencies:
-    "commander" "^8.0.0"
-
 "katex@^0.16.3":
   "integrity" "sha512-3EykQddareoRmbtNiNEDgl3IGjryyrp2eg/25fHDEnlHymIDi33bptkMv6K4EOC2LZCybLW/ZkEo6Le+EM9pmA=="
   "resolved" "https://registry.npmjs.org/katex/-/katex-0.16.3.tgz"
   "version" "0.16.3"
   dependencies:
     "commander" "^8.0.0"
-
-"katex@^0.6.0":
-  "integrity" "sha512-rS4mY3SvHYg5LtQV6RBcK0if7ur6plyEukAOV+jGGPqFImuzu8fHL6M752iBmRGoUyF0bhZbAPoezehn7xYksA=="
-  "resolved" "https://registry.npmjs.org/katex/-/katex-0.6.0.tgz"
-  "version" "0.6.0"
-  dependencies:
-    "match-at" "^0.1.0"
 
 "khroma@^2.0.0":
   "integrity" "sha512-2J8rDNlQWbtiNYThZRvmMv5yt44ZakX+Tz5ZIp/mN1pt4snn+m030Va5Z4v8xA0cQFDXBwO/8i42xL4QPsVk3g=="
@@ -2348,18 +2327,6 @@
   "resolved" "https://registry.npmjs.org/markdown-it-emoji/-/markdown-it-emoji-2.0.2.tgz"
   "version" "2.0.2"
 
-"markdown-it-katex@^2.0.3":
-  "integrity" "sha512-nUkkMtRWeg7OpdflamflE/Ho/pWl64Lk9wNBKOmaj33XkQdumhXAIYhI0WO03GeiycPCsxbmX536V5NEXpC3Ng=="
-  "resolved" "https://registry.npmjs.org/markdown-it-katex/-/markdown-it-katex-2.0.3.tgz"
-  "version" "2.0.3"
-  dependencies:
-    "katex" "^0.6.0"
-
-"markdown-it-plantuml@^1.4.1":
-  "integrity" "sha512-13KgnZaGYTHBp4iUmGofzZSBz+Zj6cyqfR0SXUIc9wgWTto5Xhn7NjaXYxY0z7uBeTUMlc9LMQq5uP4OM5xCHg=="
-  "resolved" "https://registry.npmjs.org/markdown-it-plantuml/-/markdown-it-plantuml-1.4.1.tgz"
-  "version" "1.4.1"
-
 "markdown-it@*", "markdown-it@^13.0.1":
   "integrity" "sha512-lTlxriVoy2criHP0JKRhO2VDG9c2ypWCsT237eDiLqi09rmbKoUetyGHq2uOIRoRS//kfoJckS0eUzzkDR+k2Q=="
   "resolved" "https://registry.npmjs.org/markdown-it/-/markdown-it-13.0.1.tgz"
@@ -2370,11 +2337,6 @@
     "linkify-it" "^4.0.1"
     "mdurl" "^1.0.1"
     "uc.micro" "^1.0.5"
-
-"match-at@^0.1.0":
-  "integrity" "sha512-h4Yd392z9mST+dzc+yjuybOGFNOZjmXIPKWjxBd1Bb23r4SmDOsk2NYCU2BMUBGbSpZqwVsZYNq26QS3xfaT3Q=="
-  "resolved" "https://registry.npmjs.org/match-at/-/match-at-0.1.1.tgz"
-  "version" "0.1.1"
 
 "mathjax-full@^3.2.2":
   "integrity" "sha512-+LfG9Fik+OuI8SLwsiR02IVdjcnRCy5MufYLi0C3TdMT56L/pjB0alMVGgoWJF8pN9Rc7FESycZB9BMNWIid5w=="

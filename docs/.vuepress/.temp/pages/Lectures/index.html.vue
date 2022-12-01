@@ -6,7 +6,8 @@
 </ul>
 <h2 id="french" tabindex="-1"><a class="header-anchor" href="#french" aria-hidden="true">#</a> French</h2>
 <ul>
-<li><RouterLink to="/Lectures/French/Unit%C3%A94-Lecon4.html">Unité 4 - Lecon 4</RouterLink></li>
+<li><RouterLink to="/Lectures/French/Unit%C3%A94-Lecon4.html">Unité 4 - Leçon 4</RouterLink></li>
+<li><RouterLink to="/Lectures/French/Unit%C3%A9%205/Lecon1.html">Unité 5 - Leçon 1</RouterLink></li>
 </ul>
 <h2 id="algebraic-structures" tabindex="-1"><a class="header-anchor" href="#algebraic-structures" aria-hidden="true">#</a> Algebraic Structures</h2>
 <ul>
